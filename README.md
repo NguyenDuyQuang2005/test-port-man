@@ -138,7 +138,7 @@ pm.test("Title was updated", function () {
     pm.expect(data.title).to.eql("Updated by Postman");
 });
 
-Kết quả kiểm thử: [Điền kết quả thực tế]
+Kết quả kiểm thử: 
 <img width="2266" height="1288" alt="image" src="https://github.com/user-attachments/assets/6ed51ebd-dbba-4687-94c6-30da3048cc34" />
 
 3.5. Kiểm thử DELETE – Xóa bài viết
